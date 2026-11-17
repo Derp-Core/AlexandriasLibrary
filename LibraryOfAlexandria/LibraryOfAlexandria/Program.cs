@@ -1,10 +1,14 @@
 using LibraryOfAlexandria.Components;
+using MongoDB.Driver;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+var mongoConnectionString = builder.Configuration["MongoDbSettings:ConnectionString"];
+builder.Services.AddSingleton<IMongoClient>(new MongoClient(mongoConnectionString));
 
 var app = builder.Build();
 
