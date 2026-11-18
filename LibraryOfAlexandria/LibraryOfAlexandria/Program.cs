@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
-var mongoConnectionString = builder.Configuration["MongoDbSettings:ConnectionString"];
+var mongoConnectionString = builder.Configuration["MongoDb:ConnectionString"];
 builder.Services.AddSingleton<IMongoClient>(new MongoClient(mongoConnectionString));
 
 var app = builder.Build();
