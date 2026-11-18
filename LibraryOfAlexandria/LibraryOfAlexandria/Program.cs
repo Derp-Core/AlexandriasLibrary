@@ -1,5 +1,6 @@
 using LibraryOfAlexandria.Components;
 using MongoDB.Driver;
+using LibraryOfAlexandria.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +10,8 @@ builder.Services.AddRazorComponents()
 
 var mongoConnectionString = builder.Configuration["MongoDb:ConnectionString"];
 builder.Services.AddSingleton<IMongoClient>(new MongoClient(mongoConnectionString));
+
+builder.Services.AddScoped<UserService>();
 
 var app = builder.Build();
 

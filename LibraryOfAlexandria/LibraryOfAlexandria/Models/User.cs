@@ -11,8 +11,8 @@ namespace LibraryOfAlexandria.Models
 
         private string UserId { get; set; }
         // Uncomment when game class is created
-        //private Game[] OwnedGames { get; set; }
-        //private Game[] WishListGames { get; set; }
-        private User[] FriendsList { get; set; }
+        //private List<Game> OwnedGames { get; set; }
+        //private List<Game> WishListGames { get; set; }
+        private List<User> FriendsList { get; set; }
     }
 }
