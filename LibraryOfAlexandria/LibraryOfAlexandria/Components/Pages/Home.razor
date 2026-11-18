@@ -1,7 +1,38 @@
 ﻿@page "/"
+@rendermode InteractiveServer
+@inject IJSRuntime JS
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+<ul>
+    <li>
+        <strong> Platform: </strong> @platform
+    </li>
+    <li>
+        <strong>Memory </strong> @deviceMemory
+    </li>
+</ul>
+
+@code{
+    private string platform = "loading";
+    private string deviceMemory = "Unknown";
+    private string userAgent = "Loading ";
+
+
+    protected override async Task OnAfterRenderAsync(bool firstrender)
+    {
+        if (firstrender)
+        {
+            platform = await JS.InvokeAsync<string>("eval", "navigator.platform");
+            userAgent = await JS.InvokeAsync<string>("eval", "navigator.userAgent");
+            var mem = await JS.InvokeAsync<object>("eval", "navigator.deviceMemory");
+            deviceMemory = mem?.ToString() ?? "Unknown";
+
+            StateHasChanged();
+
+        }
+    }
+}
