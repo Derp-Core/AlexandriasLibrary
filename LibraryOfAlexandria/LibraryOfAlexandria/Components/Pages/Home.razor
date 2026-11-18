@@ -2,24 +2,34 @@
 @rendermode InteractiveServer
 @inject IJSRuntime JS
 
+<style src=""></style>
+
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Specs</h1>
+<div> Your System Specifications
+    <ul>
+        <li>
+            <strong> Platform: </strong> @platform
+        </li>
+        <li>
+            <strong> Cores: </strong> @cores
+        </li>
+        <li>
+            <strong>Memory: </strong> @deviceMemory
+        </li>
+        <li>
+            <strong>User Agent: </strong> @userAgent
+        </li>
+    </ul>
+</div>
 
-Welcome to your new app.
-<ul>
-    <li>
-        <strong> Platform: </strong> @platform
-    </li>
-    <li>
-        <strong>Memory </strong> @deviceMemory
-    </li>
-</ul>
 
 @code{
     private string platform = "loading";
     private string deviceMemory = "Unknown";
     private string userAgent = "Loading ";
+    private int cores = 0;
 
 
     protected override async Task OnAfterRenderAsync(bool firstrender)
@@ -28,6 +38,7 @@ Welcome to your new app.
         {
             platform = await JS.InvokeAsync<string>("eval", "navigator.platform");
             userAgent = await JS.InvokeAsync<string>("eval", "navigator.userAgent");
+            cores = await JS.InvokeAsync<int>("eval", "navigator.hardwareConcurrency");
             var mem = await JS.InvokeAsync<object>("eval", "navigator.deviceMemory");
             deviceMemory = mem?.ToString() ?? "Unknown";
 
