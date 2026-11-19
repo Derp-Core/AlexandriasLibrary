@@ -13,6 +13,6 @@ namespace LibraryOfAlexandria.Models
         // Uncomment when game class is created
         //private List<Game> OwnedGames { get; set; }
         //private List<Game> WishListGames { get; set; }
-        private List<User> FriendsList { get; set; }
+        private List<User>? FriendsList { get; set; }
     }
 }
