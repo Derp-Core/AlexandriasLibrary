@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\components\\pages\\library.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\components\\pages\\library.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,7 +68,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -84,13 +84,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Library.razor",
               "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Library.razor",
               "RelativeDocumentMoniker": "LibraryOfAlexandria\\Components\\Pages\\Library.razor",
               "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Library.razor",
               "RelativeToolTip": "LibraryOfAlexandria\\Components\\Pages\\Library.razor",
-              "ViewState": "AgIAADEAAAAAAAAAAAAmwFgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAADwv3wAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-20T22:27:51.94Z",
               "EditorCaption": ""
@@ -105,8 +105,7 @@
               "RelativeToolTip": "LibraryOfAlexandria\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T22:22:29.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-20T22:22:29.344Z"
             },
             {
               "$type": "Document",
@@ -122,13 +121,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "LibraryOfAlexandria\\wwwroot\\app.css",
               "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\wwwroot\\app.css",
               "RelativeToolTip": "LibraryOfAlexandria\\wwwroot\\app.css",
-              "ViewState": "AgIAADwAAAAAAAAAAAAuwEsAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwHYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-11-20T22:28:24.755Z",
               "EditorCaption": ""

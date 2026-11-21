@@ -5,85 +5,147 @@
 @inject SteamService Steam
 @inject SteamSpyService SteamSpy
 
+<PageTitle>Library</PageTitle>
+
 <input @bind="input" placeholder="SteamID or custom URL name" />
 <button @onclick="Load">Load</button>
 <button @onclick="ToggleView">@(grid ? "Switch to list" : "Switch to grid")</button>
-<button @onclick="LoadDetails" disabled="@loadingDetails">Load achievements and tags</button>
-<span>@progress</span>
 
 <p>@message</p>
 
 <div class="@(grid ? "game-grid" : "game-list")">
     @foreach (var g in games)
     {
-        <div class="game-card">
+        <div class="game-card @(selected?.AppId == g.AppId ? "selected" : "")" @onclick="() => Select(g)">
             <img src="@g.HeaderUrl" loading="lazy" />
             <h4>@g.Name</h4>
             <small>@(g.PlaytimeMinutes / 60) hrs</small>
-            @if (g.AchievementsTotal is not null)
-            {
-                <div>
-                    <progress value="@g.AchievementsEarned" max="@g.AchievementsTotal"></progress>
-                    <small>@g.AchievementsEarned / @g.AchievementsTotal</small>
-                </div>
-            }
-            <div>
-                @foreach (var t in g.Tags)
-                {
-                    <span class="tag">@t</span>
-                }
-            </div>
         </div>
     }
 </div>
 
+@if (selected is not null)
+{
+    <aside class="details-panel">
+        <button class="close-btn" @onclick="Close">✕</button>
+        <img src="@selected.HeaderUrl" />
+        <h3>@selected.Name</h3>
+        <p>@(selected.PlaytimeMinutes / 60) hrs played</p>
+
+        @if (loadingDetails)
+        {
+            <p>Loading details...</p>
+        }
+
+        <h5>Achievements</h5>
+        @if (selected.AchievementsTotal is not null)
+        {
+            <progress value="@selected.AchievementsEarned" max="@selected.AchievementsTotal"></progress>
+            <small>@selected.AchievementsEarned / @selected.AchievementsTotal</small>
+        }
+        else if (!loadingDetails)
+        {
+            <p>None, or not visible.</p>
+        }
+
+        <h5>Tags</h5>
+        <div>
+            @foreach (var t in selected.Tags)
+            {
+                <span class="tag">@t</span>
+            }
+        </div>
+    </aside>
+}
+
 @code {
-    string input = ""; string message = ""; bool grid = true;
+    #region Fields
+
+    /// <summary>Text the user typed: a SteamID, custom name, or profile link.</summary>
+    string input = "";
+
+    /// <summary>Status or error text shown under the buttons.</summary>
+    string message = "";
+
+    /// <summary>True for grid view, false for list view.</summary>
+    bool grid = true;
+
+    /// <summary>The resolved SteamID64 of the loaded user.</summary>
     string steamId = "";
-    bool loadingDetails = false;
-    string progress = "";
+
+    /// <summary>The loaded library.</summary>
     List<OwnedGame> games = new();
 
+    /// <summary>The game whose sidebar is open, or null if closed.</summary>
+    OwnedGame? selected;
+
+    /// <summary>True while the sidebar details are loading.</summary>
+    bool loadingDetails = false;
+
+    /// <summary>App IDs whose achievements and tags are already loaded, so we never refetch.</summary>
+    readonly HashSet<int> loadedIds = new();
+
+    #endregion
+
+    #region View
+
+    /// <summary>Switches between grid and list layout.</summary>
+    void ToggleView() => grid = !grid;
+
+    #endregion
+
+    #region Loading
+
+    /// <summary>
+    /// Resolves the typed input to a SteamID and loads that user's owned games.
+    /// </summary>
     async Task Load()
     {
         var id = await Steam.ResolveSteamIdAsync(input);
         if (id is null) { message = "User not found."; return; }
         steamId = id;
         games = await Steam.GetOwnedGamesAsync(id);
+        loadedIds.Clear();
         message = games.Count == 0 ? "No games found. Is the profile public?" : "";
-
-
+        Close();
     }
-    #region View
-        /// <summary>Switches between grid and list layout.</summary>
-        void ToggleView() => grid = !grid;
+
     #endregion
 
+    #region Sidebar
 
-
-    async Task LoadDetails()
+    /// <summary>
+    /// Opens the sidebar for a game and loads its achievements and tags once.
+    /// </summary>
+    async Task Select(OwnedGame g)
     {
-        loadingDetails = true;
-        int done = 0;
-        foreach (var g in games)
-        {
-            try
-            {
-                var ach = await Steam.GetAchievementsAsync(steamId, g.AppId);
-                if (ach is not null)
-                {
-                    g.AchievementsEarned = ach.Value.Earned;
-                    g.AchievementsTotal = ach.Value.Total;
-                }
-                g.Tags = await SteamSpy.GetTopTagsAsync(g.AppId);
-            }
-            catch { /* skip games that fail */ }
+        selected = g;
+        if (loadedIds.Contains(g.AppId)) return;
 
-            done++;
-            progress = $"{done} / {games.Count}";
-            StateHasChanged();
-            await Task.Delay(1000);
+        loadingDetails = true;
+        StateHasChanged();
+
+        try
+        {
+            var ach = await Steam.GetAchievementsAsync(steamId, g.AppId);
+            if (ach is not null)
+            {
+                g.AchievementsEarned = ach.Value.Earned;
+                g.AchievementsTotal = ach.Value.Total;
+            }
         }
+        catch { /* no achievements */ }
+
+        try { g.Tags = await SteamSpy.GetTopTagsAsync(g.AppId); }
+        catch { /* leave tags empty */ }
+
+        loadedIds.Add(g.AppId);
         loadingDetails = false;
     }
+
+    /// <summary>Closes the sidebar.</summary>
+    void Close() => selected = null;
+
+    #endregion
+
 }
