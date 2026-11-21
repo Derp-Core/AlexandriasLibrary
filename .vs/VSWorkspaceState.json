@@ -1,16 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1261019020817-AlexandriasLibrary",
-    "\\1261019020817-AlexandriasLibrary\\AlexandriasLibrary",
-    "\\1261019020817-AlexandriasLibrary\\AlexandriasLibrary\\Components",
-    "\\1261019020817-AlexandriasLibrary\\AlexandriasLibrary\\Components\\Layout",
-    "\\1261019020817-AlexandriasLibrary\\AlexandriasLibrary\\Models",
-    "\\1261019020817-AlexandriasLibrary\\AlexandriasLibrary\\Services",
-    "\\Alexandriaslibrary",
+    "\\LibraryOfAlexandria",
     "\\LibraryOfAlexandria\\LibraryOfAlexandria",
     "\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components"
   ],
-  "SelectedNode": "\\1261019020817-AlexandriasLibrary\\AlexandriasLibrary\\Services\\SteamService.cs",
+  "SelectedNode": "\\LibraryOfAlexandria\\LibraryOfAlexandria\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -58,3 +58,30 @@ h1:focus {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+/* #region Library layout */
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 12px;
+}
+
+.game-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+    .game-list .game-card {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .game-list img {
+        width: 120px;
+    }
+
+.game-card img {
+    max-width: 100%;
+}
+/* #endregion */

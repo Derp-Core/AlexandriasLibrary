@@ -92,4 +92,4 @@ C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\Alex
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\LibraryOfAlexandria.pdb
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\LibraryOfAlexandria.genruntimeconfig.cache
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\ref\LibraryOfAlexandria.dll
-C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\hkvl9v5ugw-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\hkvl9v5ugw-{0}-5dxh1hal43-5dxh1hal43.gz

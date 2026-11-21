@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryOfAlexandria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f0a63daa4409acd2450dfcffdf1ca4b9b715af0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c76c68a8566032b5446851c68cb418726719424d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryOfAlexandria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryOfAlexandria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

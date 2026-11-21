@@ -7,7 +7,7 @@
 
 <input @bind="input" placeholder="SteamID or custom URL name" />
 <button @onclick="Load">Load</button>
-<button @onclick="() => grid = !grid">@(grid ? "List" : "Grid") view</button>
+<button @onclick="ToggleView">@(grid ? "Switch to list" : "Switch to grid")</button>
 <button @onclick="LoadDetails" disabled="@loadingDetails">Load achievements and tags</button>
 <span>@progress</span>
 
@@ -51,7 +51,15 @@
         steamId = id;
         games = await Steam.GetOwnedGamesAsync(id);
         message = games.Count == 0 ? "No games found. Is the profile public?" : "";
+
+
     }
+    #region View
+        /// <summary>Switches between grid and list layout.</summary>
+        void ToggleView() => grid = !grid;
+    #endregion
+
+
 
     async Task LoadDetails()
     {
