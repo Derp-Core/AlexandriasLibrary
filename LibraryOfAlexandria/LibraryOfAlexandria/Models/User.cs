@@ -9,7 +9,7 @@ namespace LibraryOfAlexandria.Models
         [BsonRepresentation(BsonType.ObjectId)]
         public string? Id { get; set; }
 
-        private string UserId { get; set; }
+        private string UserId { get; set; } = "";
         // Uncomment when game class is created
         //private List<Game> OwnedGames { get; set; }
         //private List<Game> WishListGames { get; set; }

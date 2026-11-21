@@ -75,7 +75,6 @@ C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\Alex
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\n8hc4t7mhk-{0}-h1s4sie4z3-h1s4sie4z3.gz
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\hpop6o3d19-{0}-4d85u1mtcx-4d85u1mtcx.gz
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\mqvqw04na7-{0}-0j3bgjxly4-0j3bgjxly4.gz
-C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\hkvl9v5ugw-{0}-hlrclki8j3-hlrclki8j3.gz
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\noft2yv7g4-{0}-abdmv1u4y3-abdmv1u4y3.gz
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\nhy5ee93ip-{0}-whefm3rrpu-whefm3rrpu.gz
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\5unazidjte-{0}-kyitu4x8cy-kyitu4x8cy.gz
@@ -93,3 +92,4 @@ C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\Alex
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\LibraryOfAlexandria.pdb
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\LibraryOfAlexandria.genruntimeconfig.cache
 C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\ref\LibraryOfAlexandria.dll
+C:\Users\tdunaway\OneDrive - Neumont University\Desktop\Github repositories\AlexandriasLibrary\LibraryOfAlexandria\LibraryOfAlexandria\obj\Debug\net10.0\compressed\hkvl9v5ugw-{0}-khy4lop6wu-khy4lop6wu.gz

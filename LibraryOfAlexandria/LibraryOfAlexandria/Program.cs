@@ -2,7 +2,15 @@ using LibraryOfAlexandria.Components;
 using MongoDB.Driver;
 using LibraryOfAlexandria.Services;
 
+
 var builder = WebApplication.CreateBuilder(args);
+
+#region Steam and Mongo Services
+builder.Services.AddHttpClient<SteamService>();
+builder.Services.AddHttpClient<SteamSpyService>();
+builder.Services.AddSingleton<IMongoClient>(_ =>
+    new MongoClient(builder.Configuration["Mongo:ConnectionString"]));
+#endregion
 
 // Add services to the container.
 builder.Services.AddRazorComponents()

@@ -7,28 +7,51 @@
       "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\components\\pages\\library.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\components\\pages\\library.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\models\\ownedgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\models\\ownedgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdunaway\\AppData\\Roaming\\Microsoft\\UserSecrets\\8a2e6762-0b91-4bd5-bd31-1695f3f746ab\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\services\\steamspyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\services\\steamspyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\components\\pages\\library.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\components\\pages\\library.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\services\\steamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\services\\steamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\models\\ownedgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\models\\ownedgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|c:\\users\\tdunaway\\onedrive - neumont university\\desktop\\github repositories\\alexandriaslibrary\\libraryofalexandria\\libraryofalexandria\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3C67713A-4442-067B-153C-87B3B768E2E8}|LibraryOfAlexandria\\LibraryOfAlexandria.csproj|solutionrelative:libraryofalexandria\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tdunaway\\AppData\\Roaming\\Microsoft\\UserSecrets\\5aa943dd-fa4b-4863-b814-a9a4faaf3823\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -45,15 +68,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "LibraryOfAlexandria\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:45:58.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "SteamSpyService.cs",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Services\\SteamSpyService.cs",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Services\\SteamSpyService.cs",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Services\\SteamSpyService.cs",
+              "RelativeToolTip": "LibraryOfAlexandria\\Services\\SteamSpyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T22:27:12.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SteamService.cs",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Services\\SteamService.cs",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Services\\SteamService.cs",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Services\\SteamService.cs",
+              "RelativeToolTip": "LibraryOfAlexandria\\Services\\SteamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T22:26:44.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.razor",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Library.razor",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Components\\Pages\\Library.razor",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Library.razor",
+              "RelativeToolTip": "LibraryOfAlexandria\\Components\\Pages\\Library.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T22:27:51.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Program.cs",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Program.cs",
+              "RelativeToolTip": "LibraryOfAlexandria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T22:22:29.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OwnedGame.cs",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Models\\OwnedGame.cs",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Models\\OwnedGame.cs",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Models\\OwnedGame.cs",
+              "RelativeToolTip": "LibraryOfAlexandria\\Models\\OwnedGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T22:26:12.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "LibraryOfAlexandria\\Components\\Layout\\NavMenu.razor",
@@ -66,7 +163,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\AppData\\Roaming\\Microsoft\\UserSecrets\\8a2e6762-0b91-4bd5-bd31-1695f3f746ab\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\8a2e6762-0b91-4bd5-bd31-1695f3f746ab\\secrets.json",
+              "ToolTip": "C:\\Users\\tdunaway\\AppData\\Roaming\\Microsoft\\UserSecrets\\8a2e6762-0b91-4bd5-bd31-1695f3f746ab\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\8a2e6762-0b91-4bd5-bd31-1695f3f746ab\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-21T00:54:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "LibraryOfAlexandria\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:45:57.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Models\\Game.cs",
+              "RelativeToolTip": "LibraryOfAlexandria\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T00:47:26.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "LibraryOfAlexandria\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:45:55.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "LibraryOfAlexandria\\wwwroot\\app.css",
@@ -74,64 +223,24 @@
               "RelativeToolTip": "LibraryOfAlexandria\\wwwroot\\app.css",
               "ViewState": "AgIAAFEAAAAAAAAAAADwv2MAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-11-20T22:28:24.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-20T22:28:24.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Library.razor",
-              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Library.razor",
-              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Components\\Pages\\Library.razor",
-              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Components\\Pages\\Library.razor",
-              "RelativeToolTip": "LibraryOfAlexandria\\Components\\Pages\\Library.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-20T22:27:51.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SteamSpyService.cs",
-              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Services\\SteamSpyService.cs",
-              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Services\\SteamSpyService.cs",
-              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Services\\SteamSpyService.cs",
-              "RelativeToolTip": "LibraryOfAlexandria\\Services\\SteamSpyService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Models\\User.cs",
+              "RelativeToolTip": "LibraryOfAlexandria\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T22:27:12.242Z",
+              "WhenOpened": "2026-11-21T00:56:59.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SteamService.cs",
-              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Services\\SteamService.cs",
-              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Services\\SteamService.cs",
-              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Services\\SteamService.cs",
-              "RelativeToolTip": "LibraryOfAlexandria\\Services\\SteamService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T22:26:44.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OwnedGame.cs",
-              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Models\\OwnedGame.cs",
-              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Models\\OwnedGame.cs",
-              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Models\\OwnedGame.cs",
-              "RelativeToolTip": "LibraryOfAlexandria\\Models\\OwnedGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T22:26:12.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\tdunaway\\AppData\\Roaming\\Microsoft\\UserSecrets\\5aa943dd-fa4b-4863-b814-a9a4faaf3823\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\5aa943dd-fa4b-4863-b814-a9a4faaf3823\\secrets.json",
@@ -139,25 +248,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\5aa943dd-fa4b-4863-b814-a9a4faaf3823\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-20T22:25:22.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-20T22:25:22.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryOfAlexandria\\Program.cs",
-              "ToolTip": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\Program.cs",
-              "RelativeToolTip": "LibraryOfAlexandria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-20T22:22:29.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\tdunaway\\OneDrive - Neumont University\\Desktop\\Github repositories\\AlexandriasLibrary\\LibraryOfAlexandria\\LibraryOfAlexandria\\appsettings.json",
               "RelativeDocumentMoniker": "LibraryOfAlexandria\\appsettings.json",
@@ -165,8 +260,7 @@
               "RelativeToolTip": "LibraryOfAlexandria\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-20T22:22:28.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-20T22:22:28.526Z"
             }
           ]
         }

@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("8a2e6762-0b91-4bd5-bd31-1695f3f746ab")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryOfAlexandria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a204f6860aaba74ffbf45d0c15e1337f0abd250e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f0a63daa4409acd2450dfcffdf1ca4b9b715af0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryOfAlexandria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryOfAlexandria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
